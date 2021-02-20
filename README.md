@@ -35,35 +35,67 @@ True Colors, when all combined, give white light -- Additive model.
 Wavelength chart: -
 
 Color -- Wavelength (nanometers -- nm -- 10-9)
+
 Violet -- 380-450
+
 Blue -- 450-485
+
 Cyan -- 485-500
+
 Green -- 500-565
+
 Yellow  -- 565-590
+
 Orange -- 590-625
+
 Red -- 625-700
 
 [These ranges vary from person to person, but are close to this range]
+
 Frequency, wavelength and speed of light (electromagnetic waves): -
+
 c=λf
+
 Speed of light = (Wavelength) X (Frequency)[constant]
+
 Speed of light in vacuum (c) = 3 x 10-8 m/s
+
 Speed and Wavelength of light changes per medium
+
 Speed of light in medium (v) = c / n …[n = Refractive index of the medium]
+
 Energy 0f photon (light particle): -
+
 E = hf
+
 Planck's constant = h = 6.626 x 10-34 Joules.second
+
 Energy of light is often measured in electron volts as ‘it fits in a certain bracket of calculations’.
+
 1 Electron volt (eV) = 1.602 x 10-19 Joules
+
 ∴ E = (hf) / (1.602 x 10-19) eV
 
+
+
 References: -
+
 https://www.youtube.com/watch?v=Qiq4CHjxkPE
+
 https://en.wikipedia.org/wiki/List_of_refractive_indices
+
 https://science.nasa.gov/ems/09_visiblelight
+
 https://www.thoughtco.com/the-visible-light-spectrum-2699036
+
 https://en.wikipedia.org/wiki/Visible_spectrum
+
 https://www.physicsclassroom.com/class/light/Lesson-2/The-Electromagnetic-and-Visible-Spectra
+
 https://www.ecgprod.com/everything-you-know-about-color-is-probably-wrong/
+
 https://en.wikipedia.org/wiki/Biological_effects_of_high-energy_visible_light
+
+
+
 
