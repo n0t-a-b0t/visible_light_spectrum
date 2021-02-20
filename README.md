@@ -12,12 +12,18 @@ The visible spectrum range is from about 380 nm to 700 nm [nanometers (10-9)].
 Human eyes perceive different wavelengths of light in the form of colors. This does not mean that the light is of that color, it’s just that it is perceived by human eyes in that way.
 
 UV RANGE [VIBGYOR] INFRARED RANGE 
+
 380 nm TO 700 nm
+
 From left to right:
+
 Frequency and Energy of light photon decreases
+
 Wavelength increases
 
+
 Issac Newton gave 7 colors from his prism experiment as he thought 7 was the ‘lucky’ number.
+
 Actual/True colors -- Violet | Blue | Cyan | Green | Yellow | Orange | Red
 
 Painter’s color palette has three primary colors -- Red, Blue and Yellow since there is no substance to create green pigment. Green is made by mixing Yellow and Blue. Also, mixing all colors gives black color -- Subtractive model.
@@ -25,11 +31,18 @@ Painter’s color palette has three primary colors -- Red, Blue and Yellow since
 Actual/True/Eye colors -- Red, Green and Blue since we have red, green and blue cone receptors for color/wavelength (in more correct terms) identification and rod receptors for catching the intensity of light.
 
 Color facts: -
+
 Red -- Easy to transition to dark/ Night light for low presence.
-Green -- Most green receptors in eyes. Hence, most identified and sensitive color to the human eye. We pick up more shades of green, and is also used for increasing concentration.
-Blue -- Good for wakefulness, as they stimulate the melanopsin receptors (night time receptors) and give rest to melatonin (day time receptors). [Note to self: avoid lights at night for night vision].
+
+Green -- Most green receptors in eyes. Hence, most identified and sensitive color to the human eye. We pick up more shades of green, and is also used for 
+increasing concentration.
+
+Blue -- Good for wakefulness, as they stimulate the melanopsin receptors (night time receptors) and give rest to melatonin (day time receptors).
+
 True Colors Primary -- Red, Blue, Green
+
 True Colors Secondary -- Cyan, Magenta, Yellow.
+
 True Colors, when all combined, give white light -- Additive model.
 
 Wavelength chart: -
