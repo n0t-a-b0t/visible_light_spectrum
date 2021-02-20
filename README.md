@@ -7,7 +7,7 @@ It travels via waves of various wavelengths.
 
 Visible light is the portion of the spectrum of electromagnetic waves which can be perceived by human eyes.
 
-The visible spectrum range is from about 380 nm to 700 nm [nanometers (10-9)].
+The visible spectrum range is from about 380 nm to 700 nm [nanometers (10**-9)].
 
 Human eyes perceive different wavelengths of light in the form of colors. This does not mean that the light is of that color, it’s just that it is perceived by human eyes in that way.
 
